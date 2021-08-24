@@ -1,0 +1,40 @@
+{
+  "access_music" : {
+    "company" : "Access Music",
+    "virus_ti" : {
+      "device" : "Virus TI",
+      "url_name" : "virus_ti",
+      "version" : 0,
+      "build" : 0,
+      "complete" : false,
+      "working" : false
+    },
+    "virus_c" : {
+      "device" : "Virus C",
+      "url_name" : "virus_c",
+      "version" : 0,
+      "build" : 0,
+      "complete" : false,
+      "working" : false
+    },
+    "virus_b" : {
+      "device" : "Virus b",
+      "url_name" : "virus_b",
+      "version" : 0,
+      "build" : 0,
+      "complete" : false,
+      "working" : false
+    }
+  },
+  "roland" : {
+    "company" : "Roland",
+    "v_synth_xt" : {
+      "device" : "V-Synth XT",
+      "url_name" : "vsynth",
+      "version" : 0,
+      "build" : 0,
+      "complete" : false,
+      "working" : true
+    }
+  }
+}
